@@ -1,2 +1,9 @@
-for i in range(0, 3):
-    print(1)
+import streamlit as st
+
+st.write(
+    """
+    # My first app
+    Hello, para calon praktisi data masa depan
+    
+    """
+)
