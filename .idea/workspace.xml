@@ -56,6 +56,9 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dashboard" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="dashboard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -108,7 +111,7 @@
       <workItem from="1744965132304" duration="10127000" />
       <workItem from="1744987890792" duration="1218000" />
       <workItem from="1744992028669" duration="48464000" />
-      <workItem from="1745168021563" duration="949000" />
+      <workItem from="1745168021563" duration="21647000" />
     </task>
     <servers />
   </component>
